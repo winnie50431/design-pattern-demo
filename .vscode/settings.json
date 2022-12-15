@@ -1,0 +1,6 @@
+{
+  "vetur.experimental.templateInterpolationService": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "json.schemas": [],
+  "livePreview.defaultPreviewPath": "c:\\Users\\user1\\桌面\\design-pattern-demo\\index.html"
+}
